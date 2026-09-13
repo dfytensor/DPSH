@@ -1,0 +1,12 @@
+{
+  "META基线": {
+    "final_loss": 2.781163215637207,
+    "params": 29573440,
+    "gate_params": 0
+  },
+  "META+DPSHGate(第二档)": {
+    "final_loss": 2.9417691230773926,
+    "params": 29573450,
+    "gate_params": 10
+  }
+}
