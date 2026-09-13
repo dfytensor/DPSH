@@ -4,3 +4,5 @@ __pycache__/
 results/pg19_text_cache.json
 results/zh_tokens.jsonl
 results/nnlm_wt103.pt
+
+results/longbench/
